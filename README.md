@@ -9,7 +9,7 @@
 
 This was the second development project, as part of my education with GA's Software Engineering Immersive bootcamp.
 
-The taks was to **build a React application**, that **consumes a public API**.
+The task was to **build a React application**, that **consumes a public API**.
 
 We were put into pairs, and given 48-hours to complete the project, in a hackathon style format.
 
